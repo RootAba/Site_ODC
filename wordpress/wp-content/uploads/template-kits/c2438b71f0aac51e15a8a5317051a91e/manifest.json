@@ -1,0 +1,2116 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Hotel & Accommodation",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-c4e905694b8c70b17314891da5fbede8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home \u2013 Hotel 2",
+            "screenshot": "screenshots\/home-hotel-2.jpg",
+            "source": "templates\/home-hotel-2-c5c714d730ee8c8d7b00ff31b37a4a1a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home \u2013 Apartments",
+            "screenshot": "screenshots\/home-apartments.jpg",
+            "source": "templates\/home-apartments-897f944c978e56f6c0c7e09f0285edc3.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home \u2013 Villa",
+            "screenshot": "screenshots\/home-villa.jpg",
+            "source": "templates\/home-villa-7134d0b9c459c5ecc16f0660ba8faf69.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home \u2013\u00a0Suites",
+            "screenshot": "screenshots\/home-suites.jpg",
+            "source": "templates\/home-suites-939a79ea7f426bebc6c49bfe909abf59.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Accommodation",
+            "screenshot": "screenshots\/accommodation.jpg",
+            "source": "templates\/accommodation-ab5925d30117830730e71c0b1075f0e8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Accommodation 2",
+            "screenshot": "screenshots\/accommodation-2.jpg",
+            "source": "templates\/accommodation-2-1adc5423dc4273dac8e945e8c97abe89.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Accommodation 3",
+            "screenshot": "screenshots\/accommodation-3.jpg",
+            "source": "templates\/accommodation-3-8f3b8f25e081ab8ec7dbb2d6c485233c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Accommodation 4",
+            "screenshot": "screenshots\/accommodation-4.jpg",
+            "source": "templates\/accommodation-4-a00cc9ff1a33110996da815053de0500.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Accommodation 5",
+            "screenshot": "screenshots\/accommodation-5.jpg",
+            "source": "templates\/accommodation-5-0be994117e91d8973440f870e55b11b8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Offers & Packages",
+            "screenshot": "screenshots\/offers-packages.jpg",
+            "source": "templates\/offers-packages-ec1582ae6f58092d4dbd964f4be04ca5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services-5025591a1962a5c91c62188bfa364df4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Spa & Beauty",
+            "screenshot": "screenshots\/spa-beauty.jpg",
+            "source": "templates\/spa-beauty-c0d9d4b2b0acdc7b7e2be9e512a9859e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Restaurant",
+            "screenshot": "screenshots\/restaurant.jpg",
+            "source": "templates\/restaurant-683698b656c42f6dacd229fd0df30146.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Restaurant 2",
+            "screenshot": "screenshots\/restaurant-2.jpg",
+            "source": "templates\/restaurant-2-ed7d3ff0b252ac9e8058415c74b60050.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Weddings",
+            "screenshot": "screenshots\/weddings.jpg",
+            "source": "templates\/weddings-90e2c5714cd8af12ec7bf78f9dbc576f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Experiences",
+            "screenshot": "screenshots\/experiences.jpg",
+            "source": "templates\/experiences-99a0d3cdf7a0c1061ec61c1498b915dd.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About & Contact",
+            "screenshot": "screenshots\/about-contact.jpg",
+            "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Destination",
+            "screenshot": "screenshots\/destination.jpg",
+            "source": "templates\/destination-f13099abd0fdfb318c68a276ee78e1ae.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-588e8f84d2a8464f4057f86ad971a4a8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": [
+        {
+            "filename": "pexels-photo-1001965.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/pexels-photo-1001965.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-c4e905694b8c70b17314891da5fbede8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-suites-939a79ea7f426bebc6c49bfe909abf59.json",
+                    "name": "Home \u2013\u00a0Suites"
+                },
+                {
+                    "source": "templates\/restaurant-2-ed7d3ff0b252ac9e8058415c74b60050.json",
+                    "name": "Restaurant 2"
+                },
+                {
+                    "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+                    "name": "About & Contact"
+                }
+            ],
+            "filesize": 303097,
+            "dimensions": [
+                1900,
+                1205
+            ]
+        },
+        {
+            "filename": "pexels-photo-545046.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/pexels-photo-545046.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-c4e905694b8c70b17314891da5fbede8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-apartments-897f944c978e56f6c0c7e09f0285edc3.json",
+                    "name": "Home \u2013 Apartments"
+                },
+                {
+                    "source": "templates\/accommodation-3-8f3b8f25e081ab8ec7dbb2d6c485233c.json",
+                    "name": "Accommodation 3"
+                }
+            ],
+            "filesize": 274253,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "pexels-photo-545034.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/pexels-photo-545034.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-c4e905694b8c70b17314891da5fbede8.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 159579,
+            "dimensions": [
+                1920,
+                1279
+            ]
+        },
+        {
+            "filename": "pexels-photo-271643.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/pexels-photo-271643.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-c4e905694b8c70b17314891da5fbede8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/accommodation-3-8f3b8f25e081ab8ec7dbb2d6c485233c.json",
+                    "name": "Accommodation 3"
+                }
+            ],
+            "filesize": 183376,
+            "dimensions": [
+                1900,
+                1267
+            ]
+        },
+        {
+            "filename": "pexels-photo-260553.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/pexels-photo-260553.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-c4e905694b8c70b17314891da5fbede8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/accommodation-ab5925d30117830730e71c0b1075f0e8.json",
+                    "name": "Accommodation"
+                }
+            ],
+            "filesize": 263404,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "pexels-photo-707581.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/pexels-photo-707581.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-c4e905694b8c70b17314891da5fbede8.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 226316,
+            "dimensions": [
+                1920,
+                1281
+            ]
+        },
+        {
+            "filename": "rooms-03-small.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/rooms-03-small.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-c4e905694b8c70b17314891da5fbede8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-suites-939a79ea7f426bebc6c49bfe909abf59.json",
+                    "name": "Home \u2013\u00a0Suites"
+                },
+                {
+                    "source": "templates\/accommodation-ab5925d30117830730e71c0b1075f0e8.json",
+                    "name": "Accommodation"
+                }
+            ],
+            "filesize": 87734,
+            "dimensions": [
+                800,
+                534
+            ]
+        },
+        {
+            "filename": "pexels-photo-262048.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/pexels-photo-262048.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-c4e905694b8c70b17314891da5fbede8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-hotel-2-c5c714d730ee8c8d7b00ff31b37a4a1a.json",
+                    "name": "Home \u2013 Hotel 2"
+                },
+                {
+                    "source": "templates\/home-villa-7134d0b9c459c5ecc16f0660ba8faf69.json",
+                    "name": "Home \u2013 Villa"
+                },
+                {
+                    "source": "templates\/accommodation-4-a00cc9ff1a33110996da815053de0500.json",
+                    "name": "Accommodation 4"
+                }
+            ],
+            "filesize": 210089,
+            "dimensions": [
+                1280,
+                912
+            ]
+        },
+        {
+            "filename": "wood-light-flowers-hotel.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/wood-light-flowers-hotel.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-c4e905694b8c70b17314891da5fbede8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/accommodation-ab5925d30117830730e71c0b1075f0e8.json",
+                    "name": "Accommodation"
+                },
+                {
+                    "source": "templates\/accommodation-2-1adc5423dc4273dac8e945e8c97abe89.json",
+                    "name": "Accommodation 2"
+                },
+                {
+                    "source": "templates\/restaurant-683698b656c42f6dacd229fd0df30146.json",
+                    "name": "Restaurant"
+                }
+            ],
+            "filesize": 308898,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "pexels-photo-460537.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/pexels-photo-460537.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-c4e905694b8c70b17314891da5fbede8.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 559490,
+            "dimensions": [
+                1920,
+                1382
+            ]
+        },
+        {
+            "filename": "vertical-grey-line.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/vertical-grey-line.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-c4e905694b8c70b17314891da5fbede8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-apartments-897f944c978e56f6c0c7e09f0285edc3.json",
+                    "name": "Home \u2013 Apartments"
+                },
+                {
+                    "source": "templates\/accommodation-ab5925d30117830730e71c0b1075f0e8.json",
+                    "name": "Accommodation"
+                },
+                {
+                    "source": "templates\/accommodation-3-8f3b8f25e081ab8ec7dbb2d6c485233c.json",
+                    "name": "Accommodation 3"
+                },
+                {
+                    "source": "templates\/accommodation-4-a00cc9ff1a33110996da815053de0500.json",
+                    "name": "Accommodation 4"
+                },
+                {
+                    "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+                    "name": "About & Contact"
+                }
+            ],
+            "filesize": 768,
+            "dimensions": [
+                79,
+                297
+            ]
+        },
+        {
+            "filename": "paolo-nicolello-692929-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/paolo-nicolello-692929-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-c4e905694b8c70b17314891da5fbede8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-hotel-2-c5c714d730ee8c8d7b00ff31b37a4a1a.json",
+                    "name": "Home \u2013 Hotel 2"
+                },
+                {
+                    "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+                    "name": "About & Contact"
+                }
+            ],
+            "filesize": 221976,
+            "dimensions": [
+                1500,
+                1001
+            ]
+        },
+        {
+            "filename": "jared-rice-408402-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/jared-rice-408402-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-c4e905694b8c70b17314891da5fbede8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-apartments-897f944c978e56f6c0c7e09f0285edc3.json",
+                    "name": "Home \u2013 Apartments"
+                },
+                {
+                    "source": "templates\/accommodation-4-a00cc9ff1a33110996da815053de0500.json",
+                    "name": "Accommodation 4"
+                },
+                {
+                    "source": "templates\/spa-beauty-c0d9d4b2b0acdc7b7e2be9e512a9859e.json",
+                    "name": "Spa & Beauty"
+                },
+                {
+                    "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+                    "name": "About & Contact"
+                }
+            ],
+            "filesize": 188158,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "affair-anniversary-asad-1024969.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/affair-anniversary-asad-1024969.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-c4e905694b8c70b17314891da5fbede8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/weddings-90e2c5714cd8af12ec7bf78f9dbc576f.json",
+                    "name": "Weddings"
+                },
+                {
+                    "source": "templates\/destination-f13099abd0fdfb318c68a276ee78e1ae.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 358155,
+            "dimensions": [
+                2048,
+                1367
+            ]
+        },
+        {
+            "filename": "pexels-photo-460376.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/pexels-photo-460376.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-hotel-2-c5c714d730ee8c8d7b00ff31b37a4a1a.json",
+                    "name": "Home \u2013 Hotel 2"
+                },
+                {
+                    "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+                    "name": "About & Contact"
+                }
+            ],
+            "filesize": 245817,
+            "dimensions": [
+                1900,
+                1267
+            ]
+        },
+        {
+            "filename": "restauran-01.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/restauran-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-hotel-2-c5c714d730ee8c8d7b00ff31b37a4a1a.json",
+                    "name": "Home \u2013 Hotel 2"
+                },
+                {
+                    "source": "templates\/restaurant-683698b656c42f6dacd229fd0df30146.json",
+                    "name": "Restaurant"
+                },
+                {
+                    "source": "templates\/restaurant-2-ed7d3ff0b252ac9e8058415c74b60050.json",
+                    "name": "Restaurant 2"
+                }
+            ],
+            "filesize": 237970,
+            "dimensions": [
+                2000,
+                1333
+            ]
+        },
+        {
+            "filename": "steve-long-607673-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/steve-long-607673-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-hotel-2-c5c714d730ee8c8d7b00ff31b37a4a1a.json",
+                    "name": "Home \u2013 Hotel 2"
+                }
+            ],
+            "filesize": 134608,
+            "dimensions": [
+                1500,
+                1002
+            ]
+        },
+        {
+            "filename": "anders-jacobsen-622704-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/anders-jacobsen-622704-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-hotel-2-c5c714d730ee8c8d7b00ff31b37a4a1a.json",
+                    "name": "Home \u2013 Hotel 2"
+                },
+                {
+                    "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+                    "name": "About & Contact"
+                }
+            ],
+            "filesize": 1150386,
+            "dimensions": [
+                1500,
+                1000
+            ]
+        },
+        {
+            "filename": "alex-holyoake-452997-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/alex-holyoake-452997-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-hotel-2-c5c714d730ee8c8d7b00ff31b37a4a1a.json",
+                    "name": "Home \u2013 Hotel 2"
+                },
+                {
+                    "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+                    "name": "About & Contact"
+                }
+            ],
+            "filesize": 248250,
+            "dimensions": [
+                1500,
+                1000
+            ]
+        },
+        {
+            "filename": "rooms-02.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/rooms-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-apartments-897f944c978e56f6c0c7e09f0285edc3.json",
+                    "name": "Home \u2013 Apartments"
+                },
+                {
+                    "source": "templates\/accommodation-2-1adc5423dc4273dac8e945e8c97abe89.json",
+                    "name": "Accommodation 2"
+                }
+            ],
+            "filesize": 326926,
+            "dimensions": [
+                1900,
+                1900
+            ]
+        },
+        {
+            "filename": "vertical-gold-line.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/vertical-gold-line.png",
+            "templates": [
+                {
+                    "source": "templates\/home-apartments-897f944c978e56f6c0c7e09f0285edc3.json",
+                    "name": "Home \u2013 Apartments"
+                },
+                {
+                    "source": "templates\/home-villa-7134d0b9c459c5ecc16f0660ba8faf69.json",
+                    "name": "Home \u2013 Villa"
+                },
+                {
+                    "source": "templates\/home-suites-939a79ea7f426bebc6c49bfe909abf59.json",
+                    "name": "Home \u2013\u00a0Suites"
+                },
+                {
+                    "source": "templates\/accommodation-2-1adc5423dc4273dac8e945e8c97abe89.json",
+                    "name": "Accommodation 2"
+                },
+                {
+                    "source": "templates\/accommodation-3-8f3b8f25e081ab8ec7dbb2d6c485233c.json",
+                    "name": "Accommodation 3"
+                },
+                {
+                    "source": "templates\/accommodation-4-a00cc9ff1a33110996da815053de0500.json",
+                    "name": "Accommodation 4"
+                },
+                {
+                    "source": "templates\/accommodation-5-0be994117e91d8973440f870e55b11b8.json",
+                    "name": "Accommodation 5"
+                },
+                {
+                    "source": "templates\/services-5025591a1962a5c91c62188bfa364df4.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/spa-beauty-c0d9d4b2b0acdc7b7e2be9e512a9859e.json",
+                    "name": "Spa & Beauty"
+                },
+                {
+                    "source": "templates\/restaurant-683698b656c42f6dacd229fd0df30146.json",
+                    "name": "Restaurant"
+                },
+                {
+                    "source": "templates\/restaurant-2-ed7d3ff0b252ac9e8058415c74b60050.json",
+                    "name": "Restaurant 2"
+                },
+                {
+                    "source": "templates\/experiences-99a0d3cdf7a0c1061ec61c1498b915dd.json",
+                    "name": "Experiences"
+                },
+                {
+                    "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+                    "name": "About & Contact"
+                }
+            ],
+            "filesize": 771,
+            "dimensions": [
+                79,
+                297
+            ]
+        },
+        {
+            "filename": "pexels-photo-154161.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/pexels-photo-154161.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-apartments-897f944c978e56f6c0c7e09f0285edc3.json",
+                    "name": "Home \u2013 Apartments"
+                },
+                {
+                    "source": "templates\/accommodation-2-1adc5423dc4273dac8e945e8c97abe89.json",
+                    "name": "Accommodation 2"
+                }
+            ],
+            "filesize": 90115,
+            "dimensions": [
+                640,
+                960
+            ]
+        },
+        {
+            "filename": "pexels-photo-698170.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/pexels-photo-698170.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-apartments-897f944c978e56f6c0c7e09f0285edc3.json",
+                    "name": "Home \u2013 Apartments"
+                },
+                {
+                    "source": "templates\/accommodation-2-1adc5423dc4273dac8e945e8c97abe89.json",
+                    "name": "Accommodation 2"
+                }
+            ],
+            "filesize": 106060,
+            "dimensions": [
+                640,
+                853
+            ]
+        },
+        {
+            "filename": "pexels-photo-1030971.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/pexels-photo-1030971.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-apartments-897f944c978e56f6c0c7e09f0285edc3.json",
+                    "name": "Home \u2013 Apartments"
+                },
+                {
+                    "source": "templates\/accommodation-2-1adc5423dc4273dac8e945e8c97abe89.json",
+                    "name": "Accommodation 2"
+                }
+            ],
+            "filesize": 95240,
+            "dimensions": [
+                640,
+                853
+            ]
+        },
+        {
+            "filename": "pexels-photo-1030979.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/pexels-photo-1030979.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-apartments-897f944c978e56f6c0c7e09f0285edc3.json",
+                    "name": "Home \u2013 Apartments"
+                },
+                {
+                    "source": "templates\/home-suites-939a79ea7f426bebc6c49bfe909abf59.json",
+                    "name": "Home \u2013\u00a0Suites"
+                },
+                {
+                    "source": "templates\/accommodation-2-1adc5423dc4273dac8e945e8c97abe89.json",
+                    "name": "Accommodation 2"
+                }
+            ],
+            "filesize": 526102,
+            "dimensions": [
+                1280,
+                1599
+            ]
+        },
+        {
+            "filename": "girl-smiling.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/girl-smiling.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-apartments-897f944c978e56f6c0c7e09f0285edc3.json",
+                    "name": "Home \u2013 Apartments"
+                },
+                {
+                    "source": "templates\/accommodation-ab5925d30117830730e71c0b1075f0e8.json",
+                    "name": "Accommodation"
+                },
+                {
+                    "source": "templates\/spa-beauty-c0d9d4b2b0acdc7b7e2be9e512a9859e.json",
+                    "name": "Spa & Beauty"
+                },
+                {
+                    "source": "templates\/experiences-99a0d3cdf7a0c1061ec61c1498b915dd.json",
+                    "name": "Experiences"
+                }
+            ],
+            "filesize": 73430,
+            "dimensions": [
+                600,
+                600
+            ]
+        },
+        {
+            "filename": "holly-mandarich-236721-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/holly-mandarich-236721-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-apartments-897f944c978e56f6c0c7e09f0285edc3.json",
+                    "name": "Home \u2013 Apartments"
+                },
+                {
+                    "source": "templates\/experiences-99a0d3cdf7a0c1061ec61c1498b915dd.json",
+                    "name": "Experiences"
+                },
+                {
+                    "source": "templates\/destination-f13099abd0fdfb318c68a276ee78e1ae.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 865030,
+            "dimensions": [
+                1500,
+                1000
+            ]
+        },
+        {
+            "filename": "mediteranean-hotel.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/mediteranean-hotel.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-villa-7134d0b9c459c5ecc16f0660ba8faf69.json",
+                    "name": "Home \u2013 Villa"
+                },
+                {
+                    "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+                    "name": "About & Contact"
+                }
+            ],
+            "filesize": 468341,
+            "dimensions": [
+                2000,
+                1333
+            ]
+        },
+        {
+            "filename": "rooms-01-small.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/rooms-01-small.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-villa-7134d0b9c459c5ecc16f0660ba8faf69.json",
+                    "name": "Home \u2013 Villa"
+                }
+            ],
+            "filesize": 132796,
+            "dimensions": [
+                800,
+                600
+            ]
+        },
+        {
+            "filename": "rooms-02-small.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/rooms-02-small.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-villa-7134d0b9c459c5ecc16f0660ba8faf69.json",
+                    "name": "Home \u2013 Villa"
+                }
+            ],
+            "filesize": 159107,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "sea-plate.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/sea-plate.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-villa-7134d0b9c459c5ecc16f0660ba8faf69.json",
+                    "name": "Home \u2013 Villa"
+                },
+                {
+                    "source": "templates\/restaurant-683698b656c42f6dacd229fd0df30146.json",
+                    "name": "Restaurant"
+                },
+                {
+                    "source": "templates\/experiences-99a0d3cdf7a0c1061ec61c1498b915dd.json",
+                    "name": "Experiences"
+                }
+            ],
+            "filesize": 380970,
+            "dimensions": [
+                2000,
+                1500
+            ]
+        },
+        {
+            "filename": "pexels-photo-772698.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/pexels-photo-772698.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-villa-7134d0b9c459c5ecc16f0660ba8faf69.json",
+                    "name": "Home \u2013 Villa"
+                },
+                {
+                    "source": "templates\/accommodation-2-1adc5423dc4273dac8e945e8c97abe89.json",
+                    "name": "Accommodation 2"
+                },
+                {
+                    "source": "templates\/accommodation-3-8f3b8f25e081ab8ec7dbb2d6c485233c.json",
+                    "name": "Accommodation 3"
+                },
+                {
+                    "source": "templates\/accommodation-4-a00cc9ff1a33110996da815053de0500.json",
+                    "name": "Accommodation 4"
+                },
+                {
+                    "source": "templates\/accommodation-5-0be994117e91d8973440f870e55b11b8.json",
+                    "name": "Accommodation 5"
+                },
+                {
+                    "source": "templates\/offers-packages-ec1582ae6f58092d4dbd964f4be04ca5.json",
+                    "name": "Offers & Packages"
+                },
+                {
+                    "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+                    "name": "About & Contact"
+                },
+                {
+                    "source": "templates\/destination-f13099abd0fdfb318c68a276ee78e1ae.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 243900,
+            "dimensions": [
+                1280,
+                854
+            ]
+        },
+        {
+            "filename": "pexels-photo-164201.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/pexels-photo-164201.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-villa-7134d0b9c459c5ecc16f0660ba8faf69.json",
+                    "name": "Home \u2013 Villa"
+                },
+                {
+                    "source": "templates\/accommodation-ab5925d30117830730e71c0b1075f0e8.json",
+                    "name": "Accommodation"
+                },
+                {
+                    "source": "templates\/experiences-99a0d3cdf7a0c1061ec61c1498b915dd.json",
+                    "name": "Experiences"
+                },
+                {
+                    "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+                    "name": "About & Contact"
+                }
+            ],
+            "filesize": 455966,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "pexels-photo-971003.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/pexels-photo-971003.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-villa-7134d0b9c459c5ecc16f0660ba8faf69.json",
+                    "name": "Home \u2013 Villa"
+                },
+                {
+                    "source": "templates\/accommodation-2-1adc5423dc4273dac8e945e8c97abe89.json",
+                    "name": "Accommodation 2"
+                },
+                {
+                    "source": "templates\/accommodation-3-8f3b8f25e081ab8ec7dbb2d6c485233c.json",
+                    "name": "Accommodation 3"
+                },
+                {
+                    "source": "templates\/accommodation-4-a00cc9ff1a33110996da815053de0500.json",
+                    "name": "Accommodation 4"
+                },
+                {
+                    "source": "templates\/accommodation-5-0be994117e91d8973440f870e55b11b8.json",
+                    "name": "Accommodation 5"
+                },
+                {
+                    "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+                    "name": "About & Contact"
+                },
+                {
+                    "source": "templates\/destination-f13099abd0fdfb318c68a276ee78e1ae.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 401938,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "owner-01.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/owner-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-villa-7134d0b9c459c5ecc16f0660ba8faf69.json",
+                    "name": "Home \u2013 Villa"
+                },
+                {
+                    "source": "templates\/accommodation-4-a00cc9ff1a33110996da815053de0500.json",
+                    "name": "Accommodation 4"
+                },
+                {
+                    "source": "templates\/accommodation-5-0be994117e91d8973440f870e55b11b8.json",
+                    "name": "Accommodation 5"
+                }
+            ],
+            "filesize": 565337,
+            "dimensions": [
+                662,
+                800
+            ]
+        },
+        {
+            "filename": "owner-02.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/owner-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-villa-7134d0b9c459c5ecc16f0660ba8faf69.json",
+                    "name": "Home \u2013 Villa"
+                },
+                {
+                    "source": "templates\/accommodation-2-1adc5423dc4273dac8e945e8c97abe89.json",
+                    "name": "Accommodation 2"
+                },
+                {
+                    "source": "templates\/accommodation-4-a00cc9ff1a33110996da815053de0500.json",
+                    "name": "Accommodation 4"
+                }
+            ],
+            "filesize": 379849,
+            "dimensions": [
+                662,
+                800
+            ]
+        },
+        {
+            "filename": "couch-table-blue-1-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/couch-table-blue-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-suites-939a79ea7f426bebc6c49bfe909abf59.json",
+                    "name": "Home \u2013\u00a0Suites"
+                }
+            ],
+            "filesize": 329636,
+            "dimensions": [
+                1600,
+                1067
+            ]
+        },
+        {
+            "filename": "five-stars.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/five-stars.png",
+            "templates": [
+                {
+                    "source": "templates\/home-suites-939a79ea7f426bebc6c49bfe909abf59.json",
+                    "name": "Home \u2013\u00a0Suites"
+                }
+            ],
+            "filesize": 1240,
+            "dimensions": [
+                98,
+                11
+            ]
+        },
+        {
+            "filename": "rooms-03.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/rooms-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-suites-939a79ea7f426bebc6c49bfe909abf59.json",
+                    "name": "Home \u2013\u00a0Suites"
+                }
+            ],
+            "filesize": 344411,
+            "dimensions": [
+                1800,
+                1200
+            ]
+        },
+        {
+            "filename": "rooms-04-small.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/rooms-04-small.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-suites-939a79ea7f426bebc6c49bfe909abf59.json",
+                    "name": "Home \u2013\u00a0Suites"
+                }
+            ],
+            "filesize": 53879,
+            "dimensions": [
+                600,
+                400
+            ]
+        },
+        {
+            "filename": "pexels-photo-988508.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/pexels-photo-988508.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-suites-939a79ea7f426bebc6c49bfe909abf59.json",
+                    "name": "Home \u2013\u00a0Suites"
+                },
+                {
+                    "source": "templates\/accommodation-ab5925d30117830730e71c0b1075f0e8.json",
+                    "name": "Accommodation"
+                },
+                {
+                    "source": "templates\/accommodation-2-1adc5423dc4273dac8e945e8c97abe89.json",
+                    "name": "Accommodation 2"
+                },
+                {
+                    "source": "templates\/restaurant-683698b656c42f6dacd229fd0df30146.json",
+                    "name": "Restaurant"
+                },
+                {
+                    "source": "templates\/destination-f13099abd0fdfb318c68a276ee78e1ae.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 205123,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "conferences-small-01.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/conferences-small-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-suites-939a79ea7f426bebc6c49bfe909abf59.json",
+                    "name": "Home \u2013\u00a0Suites"
+                }
+            ],
+            "filesize": 68472,
+            "dimensions": [
+                600,
+                401
+            ]
+        },
+        {
+            "filename": "spa-02.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/spa-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-suites-939a79ea7f426bebc6c49bfe909abf59.json",
+                    "name": "Home \u2013\u00a0Suites"
+                },
+                {
+                    "source": "templates\/services-5025591a1962a5c91c62188bfa364df4.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/spa-beauty-c0d9d4b2b0acdc7b7e2be9e512a9859e.json",
+                    "name": "Spa & Beauty"
+                }
+            ],
+            "filesize": 439428,
+            "dimensions": [
+                2000,
+                1333
+            ]
+        },
+        {
+            "filename": "bar.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/bar.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-suites-939a79ea7f426bebc6c49bfe909abf59.json",
+                    "name": "Home \u2013\u00a0Suites"
+                },
+                {
+                    "source": "templates\/restaurant-2-ed7d3ff0b252ac9e8058415c74b60050.json",
+                    "name": "Restaurant 2"
+                }
+            ],
+            "filesize": 293798,
+            "dimensions": [
+                1600,
+                1010
+            ]
+        },
+        {
+            "filename": "tennis.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/tennis.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-suites-939a79ea7f426bebc6c49bfe909abf59.json",
+                    "name": "Home \u2013\u00a0Suites"
+                }
+            ],
+            "filesize": 491350,
+            "dimensions": [
+                1500,
+                1875
+            ]
+        },
+        {
+            "filename": "armond.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/armond.png",
+            "templates": [
+                {
+                    "source": "templates\/home-suites-939a79ea7f426bebc6c49bfe909abf59.json",
+                    "name": "Home \u2013\u00a0Suites"
+                }
+            ],
+            "filesize": 755,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "bastil.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/bastil.png",
+            "templates": [
+                {
+                    "source": "templates\/home-suites-939a79ea7f426bebc6c49bfe909abf59.json",
+                    "name": "Home \u2013\u00a0Suites"
+                }
+            ],
+            "filesize": 1544,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "bolier.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/bolier.png",
+            "templates": [
+                {
+                    "source": "templates\/home-suites-939a79ea7f426bebc6c49bfe909abf59.json",
+                    "name": "Home \u2013\u00a0Suites"
+                }
+            ],
+            "filesize": 884,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "darkside.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/darkside.png",
+            "templates": [
+                {
+                    "source": "templates\/home-suites-939a79ea7f426bebc6c49bfe909abf59.json",
+                    "name": "Home \u2013\u00a0Suites"
+                }
+            ],
+            "filesize": 1476,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "rooms-03-blurl.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/rooms-03-blurl.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-suites-939a79ea7f426bebc6c49bfe909abf59.json",
+                    "name": "Home \u2013\u00a0Suites"
+                },
+                {
+                    "source": "templates\/accommodation-ab5925d30117830730e71c0b1075f0e8.json",
+                    "name": "Accommodation"
+                }
+            ],
+            "filesize": 47512,
+            "dimensions": [
+                800,
+                534
+            ]
+        },
+        {
+            "filename": "Bridesmaids0Dbridsmade1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/Bridesmaids0Dbridsmade1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/accommodation-ab5925d30117830730e71c0b1075f0e8.json",
+                    "name": "Accommodation"
+                },
+                {
+                    "source": "templates\/spa-beauty-c0d9d4b2b0acdc7b7e2be9e512a9859e.json",
+                    "name": "Spa & Beauty"
+                },
+                {
+                    "source": "templates\/experiences-99a0d3cdf7a0c1061ec61c1498b915dd.json",
+                    "name": "Experiences"
+                }
+            ],
+            "filesize": 24242,
+            "dimensions": [
+                233,
+                233
+            ]
+        },
+        {
+            "filename": "849.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/849.jpg",
+            "templates": [
+                {
+                    "source": "templates\/accommodation-ab5925d30117830730e71c0b1075f0e8.json",
+                    "name": "Accommodation"
+                },
+                {
+                    "source": "templates\/spa-beauty-c0d9d4b2b0acdc7b7e2be9e512a9859e.json",
+                    "name": "Spa & Beauty"
+                },
+                {
+                    "source": "templates\/experiences-99a0d3cdf7a0c1061ec61c1498b915dd.json",
+                    "name": "Experiences"
+                }
+            ],
+            "filesize": 589987,
+            "dimensions": [
+                1920,
+                1281
+            ]
+        },
+        {
+            "filename": "benches-clouds-dawn-462124.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/benches-clouds-dawn-462124.jpg",
+            "templates": [
+                {
+                    "source": "templates\/accommodation-ab5925d30117830730e71c0b1075f0e8.json",
+                    "name": "Accommodation"
+                },
+                {
+                    "source": "templates\/accommodation-2-1adc5423dc4273dac8e945e8c97abe89.json",
+                    "name": "Accommodation 2"
+                },
+                {
+                    "source": "templates\/accommodation-3-8f3b8f25e081ab8ec7dbb2d6c485233c.json",
+                    "name": "Accommodation 3"
+                },
+                {
+                    "source": "templates\/accommodation-4-a00cc9ff1a33110996da815053de0500.json",
+                    "name": "Accommodation 4"
+                },
+                {
+                    "source": "templates\/accommodation-5-0be994117e91d8973440f870e55b11b8.json",
+                    "name": "Accommodation 5"
+                }
+            ],
+            "filesize": 254054,
+            "dimensions": [
+                1900,
+                1266
+            ]
+        },
+        {
+            "filename": "ishan-seefromthesky-201155-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/ishan-seefromthesky-201155-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/accommodation-2-1adc5423dc4273dac8e945e8c97abe89.json",
+                    "name": "Accommodation 2"
+                },
+                {
+                    "source": "templates\/weddings-90e2c5714cd8af12ec7bf78f9dbc576f.json",
+                    "name": "Weddings"
+                },
+                {
+                    "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+                    "name": "About & Contact"
+                },
+                {
+                    "source": "templates\/destination-f13099abd0fdfb318c68a276ee78e1ae.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 1030948,
+            "dimensions": [
+                1500,
+                842
+            ]
+        },
+        {
+            "filename": "jackie-tsang-458443-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/jackie-tsang-458443-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/accommodation-2-1adc5423dc4273dac8e945e8c97abe89.json",
+                    "name": "Accommodation 2"
+                },
+                {
+                    "source": "templates\/accommodation-5-0be994117e91d8973440f870e55b11b8.json",
+                    "name": "Accommodation 5"
+                },
+                {
+                    "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+                    "name": "About & Contact"
+                },
+                {
+                    "source": "templates\/destination-f13099abd0fdfb318c68a276ee78e1ae.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 830360,
+            "dimensions": [
+                1500,
+                996
+            ]
+        },
+        {
+            "filename": "milada-vigerova-114392-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/milada-vigerova-114392-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/accommodation-2-1adc5423dc4273dac8e945e8c97abe89.json",
+                    "name": "Accommodation 2"
+                }
+            ],
+            "filesize": 1598340,
+            "dimensions": [
+                1500,
+                1000
+            ]
+        },
+        {
+            "filename": "little-john-482458-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/little-john-482458-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/accommodation-2-1adc5423dc4273dac8e945e8c97abe89.json",
+                    "name": "Accommodation 2"
+                },
+                {
+                    "source": "templates\/accommodation-3-8f3b8f25e081ab8ec7dbb2d6c485233c.json",
+                    "name": "Accommodation 3"
+                },
+                {
+                    "source": "templates\/accommodation-4-a00cc9ff1a33110996da815053de0500.json",
+                    "name": "Accommodation 4"
+                },
+                {
+                    "source": "templates\/accommodation-5-0be994117e91d8973440f870e55b11b8.json",
+                    "name": "Accommodation 5"
+                },
+                {
+                    "source": "templates\/offers-packages-ec1582ae6f58092d4dbd964f4be04ca5.json",
+                    "name": "Offers & Packages"
+                },
+                {
+                    "source": "templates\/experiences-99a0d3cdf7a0c1061ec61c1498b915dd.json",
+                    "name": "Experiences"
+                },
+                {
+                    "source": "templates\/destination-f13099abd0fdfb318c68a276ee78e1ae.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 1506229,
+            "dimensions": [
+                1500,
+                1000
+            ]
+        },
+        {
+            "filename": "alexandre-chambon-115386-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/alexandre-chambon-115386-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/accommodation-5-0be994117e91d8973440f870e55b11b8.json",
+                    "name": "Accommodation 5"
+                },
+                {
+                    "source": "templates\/services-5025591a1962a5c91c62188bfa364df4.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/spa-beauty-c0d9d4b2b0acdc7b7e2be9e512a9859e.json",
+                    "name": "Spa & Beauty"
+                },
+                {
+                    "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+                    "name": "About & Contact"
+                },
+                {
+                    "source": "templates\/destination-f13099abd0fdfb318c68a276ee78e1ae.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/popup-588e8f84d2a8464f4057f86ad971a4a8.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 1166336,
+            "dimensions": [
+                2500,
+                1667
+            ]
+        },
+        {
+            "filename": "dish-small-01.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/dish-small-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/accommodation-5-0be994117e91d8973440f870e55b11b8.json",
+                    "name": "Accommodation 5"
+                },
+                {
+                    "source": "templates\/restaurant-2-ed7d3ff0b252ac9e8058415c74b60050.json",
+                    "name": "Restaurant 2"
+                }
+            ],
+            "filesize": 34755,
+            "dimensions": [
+                600,
+                400
+            ]
+        },
+        {
+            "filename": "wes-hicks-416270-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/wes-hicks-416270-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/offers-packages-ec1582ae6f58092d4dbd964f4be04ca5.json",
+                    "name": "Offers & Packages"
+                }
+            ],
+            "filesize": 164601,
+            "dimensions": [
+                1600,
+                1067
+            ]
+        },
+        {
+            "filename": "digital-sennin-648011-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/digital-sennin-648011-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/offers-packages-ec1582ae6f58092d4dbd964f4be04ca5.json",
+                    "name": "Offers & Packages"
+                },
+                {
+                    "source": "templates\/experiences-99a0d3cdf7a0c1061ec61c1498b915dd.json",
+                    "name": "Experiences"
+                }
+            ],
+            "filesize": 1855255,
+            "dimensions": [
+                6000,
+                3376
+            ]
+        },
+        {
+            "filename": "daniela-cuevas-21263-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/daniela-cuevas-21263-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/offers-packages-ec1582ae6f58092d4dbd964f4be04ca5.json",
+                    "name": "Offers & Packages"
+                },
+                {
+                    "source": "templates\/experiences-99a0d3cdf7a0c1061ec61c1498b915dd.json",
+                    "name": "Experiences"
+                }
+            ],
+            "filesize": 733422,
+            "dimensions": [
+                1500,
+                1000
+            ]
+        },
+        {
+            "filename": "linus-nylund-418486-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/linus-nylund-418486-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/offers-packages-ec1582ae6f58092d4dbd964f4be04ca5.json",
+                    "name": "Offers & Packages"
+                },
+                {
+                    "source": "templates\/experiences-99a0d3cdf7a0c1061ec61c1498b915dd.json",
+                    "name": "Experiences"
+                }
+            ],
+            "filesize": 1050431,
+            "dimensions": [
+                1500,
+                1001
+            ]
+        },
+        {
+            "filename": "michael-jasmund-534345-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/michael-jasmund-534345-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/offers-packages-ec1582ae6f58092d4dbd964f4be04ca5.json",
+                    "name": "Offers & Packages"
+                }
+            ],
+            "filesize": 1823900,
+            "dimensions": [
+                1500,
+                1125
+            ]
+        },
+        {
+            "filename": "thermes.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/thermes.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-5025591a1962a5c91c62188bfa364df4.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 593567,
+            "dimensions": [
+                1800,
+                1350
+            ]
+        },
+        {
+            "filename": "toa-heftiba-578093-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/toa-heftiba-578093-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-5025591a1962a5c91c62188bfa364df4.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/spa-beauty-c0d9d4b2b0acdc7b7e2be9e512a9859e.json",
+                    "name": "Spa & Beauty"
+                }
+            ],
+            "filesize": 1165966,
+            "dimensions": [
+                2624,
+                3936
+            ]
+        },
+        {
+            "filename": "aroma-treatment-small.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/aroma-treatment-small.jpg",
+            "templates": [
+                {
+                    "source": "templates\/spa-beauty-c0d9d4b2b0acdc7b7e2be9e512a9859e.json",
+                    "name": "Spa & Beauty"
+                }
+            ],
+            "filesize": 87728,
+            "dimensions": [
+                600,
+                400
+            ]
+        },
+        {
+            "filename": "bathtub-small.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/bathtub-small.jpg",
+            "templates": [
+                {
+                    "source": "templates\/spa-beauty-c0d9d4b2b0acdc7b7e2be9e512a9859e.json",
+                    "name": "Spa & Beauty"
+                }
+            ],
+            "filesize": 60444,
+            "dimensions": [
+                600,
+                400
+            ]
+        },
+        {
+            "filename": "chef.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/chef.png",
+            "templates": [
+                {
+                    "source": "templates\/restaurant-683698b656c42f6dacd229fd0df30146.json",
+                    "name": "Restaurant"
+                }
+            ],
+            "filesize": 320168,
+            "dimensions": [
+                800,
+                563
+            ]
+        },
+        {
+            "filename": "breakfast-small.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/breakfast-small.jpg",
+            "templates": [
+                {
+                    "source": "templates\/restaurant-683698b656c42f6dacd229fd0df30146.json",
+                    "name": "Restaurant"
+                }
+            ],
+            "filesize": 135873,
+            "dimensions": [
+                800,
+                534
+            ]
+        },
+        {
+            "filename": "restaurant-04-salmon.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/restaurant-04-salmon.jpg",
+            "templates": [
+                {
+                    "source": "templates\/restaurant-683698b656c42f6dacd229fd0df30146.json",
+                    "name": "Restaurant"
+                }
+            ],
+            "filesize": 208738,
+            "dimensions": [
+                1200,
+                1800
+            ]
+        },
+        {
+            "filename": "dish-small-02.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/dish-small-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/restaurant-2-ed7d3ff0b252ac9e8058415c74b60050.json",
+                    "name": "Restaurant 2"
+                }
+            ],
+            "filesize": 46666,
+            "dimensions": [
+                600,
+                450
+            ]
+        },
+        {
+            "filename": "dish-small-03.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/dish-small-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/restaurant-2-ed7d3ff0b252ac9e8058415c74b60050.json",
+                    "name": "Restaurant 2"
+                }
+            ],
+            "filesize": 71729,
+            "dimensions": [
+                600,
+                900
+            ]
+        },
+        {
+            "filename": "dish-small-04.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/dish-small-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/restaurant-2-ed7d3ff0b252ac9e8058415c74b60050.json",
+                    "name": "Restaurant 2"
+                }
+            ],
+            "filesize": 79491,
+            "dimensions": [
+                600,
+                400
+            ]
+        },
+        {
+            "filename": "restaurant-04.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/restaurant-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/restaurant-2-ed7d3ff0b252ac9e8058415c74b60050.json",
+                    "name": "Restaurant 2"
+                }
+            ],
+            "filesize": 367071,
+            "dimensions": [
+                1600,
+                1067
+            ]
+        },
+        {
+            "filename": "restaurant-03.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/restaurant-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/restaurant-2-ed7d3ff0b252ac9e8058415c74b60050.json",
+                    "name": "Restaurant 2"
+                }
+            ],
+            "filesize": 468284,
+            "dimensions": [
+                1600,
+                1067
+            ]
+        },
+        {
+            "filename": "anthony-tran-370243-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/anthony-tran-370243-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/weddings-90e2c5714cd8af12ec7bf78f9dbc576f.json",
+                    "name": "Weddings"
+                },
+                {
+                    "source": "templates\/destination-f13099abd0fdfb318c68a276ee78e1ae.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 129933,
+            "dimensions": [
+                1000,
+                1500
+            ]
+        },
+        {
+            "filename": "thomas-william-660882-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/thomas-william-660882-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/weddings-90e2c5714cd8af12ec7bf78f9dbc576f.json",
+                    "name": "Weddings"
+                }
+            ],
+            "filesize": 298365,
+            "dimensions": [
+                1500,
+                1000
+            ]
+        },
+        {
+            "filename": "marcus-lewis-550568-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/marcus-lewis-550568-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/weddings-90e2c5714cd8af12ec7bf78f9dbc576f.json",
+                    "name": "Weddings"
+                }
+            ],
+            "filesize": 130458,
+            "dimensions": [
+                1000,
+                1294
+            ]
+        },
+        {
+            "filename": "jacalyn-beales-676450-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/jacalyn-beales-676450-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/weddings-90e2c5714cd8af12ec7bf78f9dbc576f.json",
+                    "name": "Weddings"
+                }
+            ],
+            "filesize": 291867,
+            "dimensions": [
+                1000,
+                1500
+            ]
+        },
+        {
+            "filename": "04-small.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/04-small.jpg",
+            "templates": [
+                {
+                    "source": "templates\/weddings-90e2c5714cd8af12ec7bf78f9dbc576f.json",
+                    "name": "Weddings"
+                }
+            ],
+            "filesize": 26541,
+            "dimensions": [
+                400,
+                400
+            ]
+        },
+        {
+            "filename": "caleb-george-316073-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/caleb-george-316073-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/experiences-99a0d3cdf7a0c1061ec61c1498b915dd.json",
+                    "name": "Experiences"
+                },
+                {
+                    "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+                    "name": "About & Contact"
+                },
+                {
+                    "source": "templates\/destination-f13099abd0fdfb318c68a276ee78e1ae.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 1799351,
+            "dimensions": [
+                1500,
+                1125
+            ]
+        },
+        {
+            "filename": "anthony-delanoix-43718-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/anthony-delanoix-43718-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/experiences-99a0d3cdf7a0c1061ec61c1498b915dd.json",
+                    "name": "Experiences"
+                }
+            ],
+            "filesize": 808086,
+            "dimensions": [
+                1500,
+                1000
+            ]
+        },
+        {
+            "filename": "food-harvest.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/food-harvest.jpg",
+            "templates": [
+                {
+                    "source": "templates\/experiences-99a0d3cdf7a0c1061ec61c1498b915dd.json",
+                    "name": "Experiences"
+                }
+            ],
+            "filesize": 59776,
+            "dimensions": [
+                600,
+                400
+            ]
+        },
+        {
+            "filename": "gabriel-ghnassia-518-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/05\/gabriel-ghnassia-518-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+                    "name": "About & Contact"
+                }
+            ],
+            "filesize": 612551,
+            "dimensions": [
+                2000,
+                1333
+            ]
+        },
+        {
+            "filename": "pexels-photo-133920.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/pexels-photo-133920.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+                    "name": "About & Contact"
+                }
+            ],
+            "filesize": 530413,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "horvath-mark-487628-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/horvath-mark-487628-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+                    "name": "About & Contact"
+                }
+            ],
+            "filesize": 1945136,
+            "dimensions": [
+                1500,
+                1000
+            ]
+        },
+        {
+            "filename": "dave-lastovskiy-127581-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/dave-lastovskiy-127581-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-contact-3a96cf49971ae490895b8a6a8093a1fd.json",
+                    "name": "About & Contact"
+                }
+            ],
+            "filesize": 1462621,
+            "dimensions": [
+                1500,
+                1000
+            ]
+        },
+        {
+            "filename": "shifaaz-shamoon-629017-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/shifaaz-shamoon-629017-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-f13099abd0fdfb318c68a276ee78e1ae.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 1370589,
+            "dimensions": [
+                1536,
+                3138
+            ]
+        },
+        {
+            "filename": "aaron-burden-631989-unsplash_s.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/aaron-burden-631989-unsplash_s.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-f13099abd0fdfb318c68a276ee78e1ae.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 912960,
+            "dimensions": [
+                1500,
+                1998
+            ]
+        },
+        {
+            "filename": "pexels-photo-261394.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/16\/2018\/06\/pexels-photo-261394.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/destination-f13099abd0fdfb318c68a276ee78e1ae.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 569186,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        }
+    ]
+}

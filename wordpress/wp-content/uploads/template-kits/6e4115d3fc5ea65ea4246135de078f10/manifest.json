@@ -1,0 +1,222 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Holiday Rental",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-953d47fbf6a1b1c2386e17f8ded1989e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2 Pro",
+            "screenshot": "screenshots\/home-2-pro.jpg",
+            "source": "templates\/home-2-pro-3c57e7f8de34b9444a2c56a44f93fff2.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About 1 Pro",
+            "screenshot": "screenshots\/about-1-pro.jpg",
+            "source": "templates\/about-1-pro-5f9fba4136a7276d106bdfc7c3b5a7c4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About 2",
+            "screenshot": "screenshots\/about-2.jpg",
+            "source": "templates\/about-2-a285f43d36022521c982daafa9599265.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Rooms List 1 Pro",
+            "screenshot": "screenshots\/rooms-list-1-pro.jpg",
+            "source": "templates\/rooms-list-1-pro-c85c30de5bdcdee769c296eea0f46802.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Rooms List 2",
+            "screenshot": "screenshots\/rooms-list-2.jpg",
+            "source": "templates\/rooms-list-2-86805e82a3d4889aadcbb81cfcb6a7bc.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Room Detail 1 Pro",
+            "screenshot": "screenshots\/room-detail-1-pro.jpg",
+            "source": "templates\/room-detail-1-pro-8a0cbd96968855188478807f00e2818d.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Room Detail 2",
+            "screenshot": "screenshots\/room-detail-2.jpg",
+            "source": "templates\/room-detail-2-ed6cfd8dc2ab99202817f60d20534df5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Room Detail 3",
+            "screenshot": "screenshots\/room-detail-3.jpg",
+            "source": "templates\/room-detail-3-1c17b4d1b9947533bde8d4406fc0140f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Amenities",
+            "screenshot": "screenshots\/amenities.jpg",
+            "source": "templates\/amenities-f2d4432f915e11870e2d9f5b06b9fe46.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq-b560c5948976caca75a0c1be011db695.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Things to Do",
+            "screenshot": "screenshots\/things-to-do.jpg",
+            "source": "templates\/things-to-do-ac233d8b2807150bf653159ee7eb2f51.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Guestbook",
+            "screenshot": "screenshots\/guestbook.jpg",
+            "source": "templates\/guestbook-a3a2601d330f53d98e8b2272543ed912.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 1 Pro",
+            "screenshot": "screenshots\/contact-1-pro.jpg",
+            "source": "templates\/contact-1-pro-c78f1108f580661312c18a6118cd1741.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact 2",
+            "screenshot": "screenshots\/contact-2.jpg",
+            "source": "templates\/contact-2-5fef029758c2a3a2611691630a246fde.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-28bd251e2aab801cf8405601916a6d9b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": []
+}

@@ -1,0 +1,63 @@
+.elementor h1 { font-size: 40px; }
+.elementor h2 { font-size: 34px; }
+.elementor h3 { font-size: 28px; }
+.elementor h4 { font-size: 24px; }
+.elementor h5 { font-size: 20px; }
+.elementor h6 { font-size: 18px; }
+
+
+
+.elementor-widget-heading h1.elementor-heading-title, 
+.elementor-widget-heading  h2.elementor-heading-title, 
+.elementor-widget-heading 
+h3.elementor-heading-title, 
+.elementor-widget-heading 
+h4.elementor-heading-title, 
+.elementor-widget-heading 
+h5.elementor-heading-title, 
+.elementor-widget-heading 
+h6.elementor-heading-title {
+    line-height: 1.4;
+}
+/* Decorative title lines */
+.hotel-tmpl-titles .elementor-heading-title:before,
+.hotel-tmpl-titles-2 .elementor-heading-title:before {
+    content: "";
+    position: relative;
+    display: inline-block;
+    width: 30px;
+    height: 50%;
+    border-bottom: 1px solid;
+    vertical-align: middle;
+    margin-right: 10px;
+    margin-left: -40px;
+		opacity: 0.5;
+}
+/* Longer decorative lines*/
+.hotel-tmpl-titles-2 .elementor-heading-title:before {
+	width: 60px;
+	margin-left: -60px;
+}
+/* Page title lines */
+.hotel-page-titles .elementor-heading-title:before,
+.hotel-page-titles .elementor-heading-title:after {
+    content: "";
+    position: relative;
+    display: inline-block;
+    width: 30px;
+    height: 50%;
+    border-bottom: 1px solid;
+    vertical-align: middle;
+    margin-right: 10px;
+    margin-left: -40px;
+		opacity: 0.5;
+}
+.hotel-page-titles .elementor-heading-title:after {
+	margin-left: 10px;
+	margin-right: -40px;
+}
+/* Restaurant menu price */
+.menu-price .elementor-text-editor p {
+    border-bottom: 1px dashed lightgrey;
+    padding-bottom: 5px;
+}
